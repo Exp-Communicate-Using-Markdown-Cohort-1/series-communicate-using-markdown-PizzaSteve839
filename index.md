@@ -4,3 +4,6 @@
 $ git init
 Initalized empty Git repository in https://github.com/PizzaSteve839/Calculator-Basic-/blob/main/script.js
 ```
+- [ ] unlock gitHub pages
+- [ ] outline a portfolio
+- [x] kill myself
